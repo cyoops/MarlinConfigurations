@@ -6,6 +6,7 @@ Pre-tested Configurations for Marlin Firmware. Links below…
 Machine List：
 
 Ender 3 V2 with BLtouch，Sprite Extruder and Creality 12864 LCD
+
 Ender 3 V2 with BLtouch，Sprite Extruder and Creality touch screen（DGUS T5UID1 same as Ender 6,7,CR6SE ）
 
 
