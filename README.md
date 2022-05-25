@@ -3,6 +3,12 @@ Pre-tested Configurations for Marlin Firmware. Links below…
 
 *Before downloading configurations in ZIP format using the CODE button above you must select the correct branch for your version of Marlin.*
 
+Machine List：
+Ender 3 V2 with BLtouch，Sprite Extruder and Creality 12864 LCD
+Ender 3 V2 with BLtouch，Sprite Extruder and Creality touch screen（DGUS T5UID1 same as Ender 6,7,CR6SE ）
+
+
+
 ## Branches
 
 - **Release** branches will apply to most users. Select the branch for your version of Marlin.
